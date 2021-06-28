@@ -8,7 +8,8 @@ credits: https://github.com/cjhutto/vaderSentiment
 2. Applying docker contrainer for each step and build docker compose for the whole pipeline.
 3. Learn to use mongodb and postgreSQL.
 
-###Process: 
+###Process:
+
 ![img](pipeline.jpg)
 
 ### The docker-compose contains this following containers:
