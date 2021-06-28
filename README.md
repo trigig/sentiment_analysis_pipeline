@@ -9,7 +9,7 @@ credits: https://github.com/cjhutto/vaderSentiment
 3. Learn to use mongodb and postgreSQL.
 
 ###Process: 
-[img](pipeline.jpg)
+![img](pipeline.jpg)
 
 ### The docker-compose contains this following containers:
 1) tweet_collector
